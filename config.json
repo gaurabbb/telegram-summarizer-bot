@@ -2,7 +2,7 @@
     "API_URL_CNN": "https://api-inference.huggingface.co/models/facebook/bart-large-cnn",
     "API_URL_CNN2": "https://api-inference.huggingface.co/models/divg07/facebook-bart-large-news",
     "API_URL_XSUM": "https://api-inference.huggingface.co/models/facebook/bart-large-xsum",
-    "hf_api": "Bearer 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",
-    "tg_token": "6344921850:AAF6YTxnfUEjzTVV5fzno7sMuV52ps5XFsY",
-    "profanity_file": "C:\\Users\\tryam\\telegram_summarizer\\processor\\profanity_wordlist.txt"
+    "hf_api": "<HUGGING FACE ORGANIZATIONAL API>,
+    "tg_token": <TELEGRAM BOT TOKEN>,
+    "profanity_file": "profanity_wordlist.txt"
 }
