@@ -9,7 +9,7 @@
 
 ### Models Used for Summarization:
 
-We utilize the power of state-of-the-art **Hugging Face Transformer models** to generate accurate and informative summaries for your text.
+It uses **Hugging Face Transformer models** to generate accurate and informative summaries for your text.
 
 - [**BART-Large-CNN**](https://api-inference.huggingface.co/models/facebook/bart-large-cnn)
 - [**BART-Large-News**](https://api-inference.huggingface.co/models/divg07/facebook-bart-large-news)
