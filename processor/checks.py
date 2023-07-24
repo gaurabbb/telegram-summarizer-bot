@@ -35,7 +35,7 @@ async def length(user_input):
 
     l = len(user_input)
     if l>1000:
-        message = " ⚠️ Your input is too long. I have a limit of 1000 characters. Please provupdatee a shorter input."
+        message = " ⚠️ Your input is too long. I have a limit of 1000 characters. Please provide a shorter response."
         raise Exception(message)
     elif l<25:
         message = "⚠️ Your input is too short. Please provide a longer response."
